@@ -4,4 +4,5 @@ def staircase(data):
         print("#"*(n))
 
 
-staircase(4)
+value = input("Staircase Length: ")
+staircase(value)
